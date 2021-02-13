@@ -1,10 +1,9 @@
 Homework \#1 – Pet Names Dataset
 ================
-Musab Isah
+ghzlan abdullah
+2021-02-13
 
-2021-02-05
-
-**Student ID:insert ID here**
+**Student ID:2201000995**
 
 **Deadline:** 23:59 on Saturday, 13 February 2021
 
@@ -24,20 +23,40 @@ library(ggrepel)
 
 (4 points)
 
-Write your narrative here
+Write your narrative here 52519 pets
 
 \`2.
 
 (4 points)
 
-Write your narrative below
+Write your narrative below variables = 7
 
 \`3. Copy the code provided in the homework documentation and paste it
 here.
 
 (4 points)
 
-Write your narrative here
+``` r
+seattlepets %>%
+count(animal_name, sort = TRUE)
+```
+
+    ## # A tibble: 13,930 x 2
+    ##    animal_name     n
+    ##    <chr>       <int>
+    ##  1 <NA>          483
+    ##  2 Lucy          439
+    ##  3 Charlie       387
+    ##  4 Luna          355
+    ##  5 Bella         331
+    ##  6 Max           270
+    ##  7 Daisy         261
+    ##  8 Molly         240
+    ##  9 Jack          232
+    ## 10 Lily          232
+    ## # … with 13,920 more rows
+
+Write your narrative here NA 483 Lucy 439 Charlie 387 Luna 355
 
 \`4.
 

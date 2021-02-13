@@ -49,10 +49,14 @@ variables = 7
 (4 points)
 
 ```{r}
-
+seattlepets %>%
+count(animal_name, sort = TRUE)
 ```
 Write your narrative here
-
+NA            483
+Lucy          439
+Charlie       387
+Luna          355
 
 
 `4.
