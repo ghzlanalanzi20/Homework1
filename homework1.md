@@ -88,9 +88,7 @@ slice_max(n, n = 5) %>% arrange(species, n)
 \`5. What names are more common for cats than dogs? The ones above the
 line or the ones below the line?
 
-Answer here
-
-(4 points)
+Answer here oliver and lily (4 points)
 
 \`6. Is the relationship between the two variables (proportion of cats
 with a given name and proportion of dogs with a given name) positive or
