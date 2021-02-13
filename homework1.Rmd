@@ -23,17 +23,16 @@ library(ggrepel)
 
 
 ##Exercises
-52519
-variables:7
+
 `1.
 
 (4 points)
+
 ```{r}
 
 ```
 Write your narrative here
-
-
+52519 pets
 
 `2.
 
@@ -43,7 +42,7 @@ Write your narrative here
 
 ```
 Write your narrative below
-
+variables = 7
 
 `3. Copy the code provided in the homework documentation and paste it here. 
 
